@@ -1,0 +1,12 @@
+.shop{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+
+.product-component{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.cart-component{
+    background-color: #FFE0B3;
+}
